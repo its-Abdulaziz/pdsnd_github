@@ -14,4 +14,4 @@ The project is about analyzing the data of a bike renting company, that works in
 4- new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.geeksforgeeks.org/data-science-tutorial/
