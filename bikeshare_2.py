@@ -37,6 +37,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+#this method displays the cities that included in the system.
 def cities():
     print("These are the three cities that included in our system, Chicago, New York, and Washington\n")
 
