@@ -6,11 +6,12 @@
 Python bikeshare project
 
 ### Description
-Describe what your project is about and what it does
-
+The project is about analyzing the data of a bike renting company, that works in three cities.
 ### Files used
-Include the files used
+1- bikeshare_2.py
+2- washington.csv
+3- chicago.csv
+4- new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
- 
