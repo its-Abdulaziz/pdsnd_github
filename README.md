@@ -15,3 +15,6 @@ The project is about analyzing the data of a bike renting company, that works in
 
 ### Credits
 https://www.geeksforgeeks.org/data-science-tutorial/
+
+### About me
+Here is Abdulaziz Khalifah, an Information Technology student at KAU.
