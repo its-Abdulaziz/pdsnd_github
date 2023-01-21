@@ -37,6 +37,8 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+def cities():
+    print("These are the three cities that included in our system, Chicago, New York, and Washington\n")
 
 def load_data(city, month, day):
     """
